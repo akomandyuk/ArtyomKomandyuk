@@ -1,0 +1,22 @@
+div {
+    text-align: right;
+}
+.head {
+    font-weight: bold;
+    line-height: 2.25;
+}
+.adress {
+    font-style: italic;
+}
+h3 {
+    font-weight: bold;
+    text-indent: 0.5cm;
+    font-family: 'Bad Script', cursive;
+    text-decoration: underline;
+}
+
+.main {
+    font-style: normal;
+    text-indent: 0.5cm;
+    font-family: 'Bad Script', cursive;
+}

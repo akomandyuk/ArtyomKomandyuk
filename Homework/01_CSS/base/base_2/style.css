@@ -1,0 +1,12 @@
+h3 {
+    font-weight: bold;
+    text-indent: 0.5cm;
+    font-family: 'Bad Script', cursive;
+    text-decoration: underline;
+}
+
+.main {
+    font-style: normal;
+    text-indent: 0.5cm;
+    font-family: 'Bad Script', cursive;
+}
